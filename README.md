@@ -10,7 +10,8 @@ letter b is replaced by the left hand side or the right hand side of some random
 * Track04 (200 instances) are benchmarks each consisting of a system of 100 small random word equations with at most 6 letters, 10 variables and length 60. The
 hard aspect of this track is solving multiple equations at the same time. 
 * Track05 (200 instances) are benchmarks each enriches a system of 30 word equations by
-suitable linear constraints, as presented in [1]. 
+suitable linear constraints, as presented in [1].   
+
 
 
 - [1] Day, J. D., Ehlers, T., Kulczynski, M., Manea, F., Nowotka, D., & Poulsen, D. B. (2019). On solving word equations using SAT. In _Reachability Problems: 13th International Conference, RP 2019, Brussels, Belgium, September 11–13, 2019, Proceedings 13_ (pp. 93-106). Springer International Publishing.
