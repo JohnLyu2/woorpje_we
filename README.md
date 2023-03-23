@@ -1,4 +1,4 @@
-**Woorpje Word Equation* is a word equation benchmark set, with 809 instances in total. The benchmarks were generated to evaluate the performance of the string solver Woorpje [1]. They range from theoretically-interesting cases to variations real-world applications.
+*Woorpje Word Equation* is a word equation benchmark set, with 809 instances in total. The benchmarks were generated to evaluate the performance of the string solver Woorpje [1]. They range from theoretically-interesting cases to variations real-world applications.
 
 The benchmark set consists of five tracks:
 * Track01 (200 instances) was produced by generating random strings, and replacing factors with variables at random, in a coherent fashion. This guarantees the existence of a solution. The generated word equations have at most 15 variables, 10 letters, and length 300. 
@@ -10,7 +10,7 @@ letter b is replaced by the left hand side or the right hand side of some random
 * Track04 (200 instances) are benchmarks each consisting of a system of 100 small random word equations with at most 6 letters, 10 variables and length 60. The
 hard aspect of this track is solving multiple equations at the same time. 
 * Track05 (200 instances) are benchmarks each enriches a system of 30 word equations by
-suitable linear constraints, as presented in [1].   
+suitable linear constraints, as presented in [1].     
 
 
 
