@@ -14,7 +14,8 @@ suitable linear constraints, as presented in [1].
 
 
 
-[1] Day, J. D., Ehlers, T., Kulczynski, M., Manea, F., Nowotka, D., & Poulsen, D. B. (2019). On solving word equations using SAT. In _Reachability Problems: 13th International Conference, RP 2019, Brussels, Belgium, September 11–13, 2019, Proceedings 13_ (pp. 93-106). Springer International Publishing.
+[1] Day, J. D., Ehlers, T., Kulczynski, M., Manea, F., Nowotka, D., & Poulsen, D. B. (2019). On solving word equations using SAT. In _Reachability Problems: 13th International Conference, RP 2019, Brussels, Belgium, September 11–13, 2019, Proceedings 13_ (pp. 93-106). Springer International Publishing.  
+
 [2] Day, J. D., Manea, F., & Nowotka, D. (2017). The hardness of solving simple word equations. _arXiv preprint arXiv:1702.07922_.
 
 
